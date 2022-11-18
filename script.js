@@ -3,4 +3,16 @@ function add(num1, num2) {
     return num1 + num2;
 }
 
-console.log(add(2, 4));
+var num = "1";
+
+console.log(add("jashd", 4));
+
+if (num == 1) {
+    console.log("yey");
+} else {
+    console.log("nah");
+}
+
+const cars = ["Saab", "Volvo", "BMW"];
+
+console.log(cars[2][1]);
