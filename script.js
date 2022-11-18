@@ -1,5 +1,6 @@
-// hello worl
 
-// hello
+function add(num1, num2) {
+    return num1 + num2;
+}
 
-// bartina  (http://     
+console.log(add(2, 4));
